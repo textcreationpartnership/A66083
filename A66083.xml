@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The widdows mite cast into the treasury of the Lord God and given forth to the upright-hearted.</title>
+            <author>Waite, Richard.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66083</idno>
+            <idno type="STC">Wing W225</idno>
+            <idno type="STC">ESTC R217110</idno>
+            <idno type="EEBO-CITATION">99828811</idno>
+            <idno type="PROQUEST">99828811</idno>
+            <idno type="VID">33243</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66083)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33243)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1859:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The widdows mite cast into the treasury of the Lord God and given forth to the upright-hearted.</title>
+                  <author>Waite, Richard.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1683]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Work signed by Richard Waite.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Friends House Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Redemption --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="religious_tract">
+            <pb n="1" facs="tcp:33243:1" rendition="simple:additions"/>
+            <head>The Widdows Mite caſt into the Treaſury of the Lord God, and given forth to the <g ref="char:V">Ʋ</g>pright-hearted.</head>
+            <p>THe Power of God is with them that truſt in him, that have no other to leane unto, nor depend up<g ref="char:EOLhyphen"/>on, but himſelf alone, whoſe power hath overcome my heart, that I can even ſay, It is good to be here, in the power of God, not in any thing below. I <hi>am</hi> not to ſtay, for the <hi>Word</hi> ſaith and cryeth aloud, <hi>Come out of Babylon</hi> ſtay not in all the plain, but <hi>haſi, haſt,</hi> and come to Mount <hi>Zion</hi> the City of the living God, in it is ſafe dwelling, in the power of God; the mu<g ref="char:EOLhyphen"/>nition of Rocks, thy bread is ſure, and thy waters ſhall never fail. It is the deſire of my heart, that God would eſtabliſh every upright, honeſt, naked, ſimple heart upon this Rock of Ages, the everlaſting ſalvation of many generations, that the Lord God may take delight to dwell in us, and to walk in us, that he may not be unto us any longer as a waifering man, that tar<g ref="char:EOLhyphen"/>rieth for a night, that this immortal life of <hi>God</hi> (which dwelleth in the Light) may ſo affect our hearts, that we may even be delighted to lye down in his Will, that the <hi>Lord</hi> may delight in us to do us good, ſo we may come to love God with all our hearts, and our Neighbour as our ſelves, which indeed is the <hi>ſum</hi> of all. Then ſhall the Captivity of <hi>Iſrael</hi> be returned, and thou ſhalt diſcern between him that feareth God (in thy ſelf) and him that ſerveth him not, that the life
+<pb n="2" facs="tcp:33243:2"/>of God may be brought forth in his creature, that ſo all things may be again in their right place.</p>
+            <p>And Friends, the <hi>Power</hi> that now is made manifeſt, I mean <hi>the power of God,</hi> it will make manifeſt who they are that have ſought the <hi>Lord</hi> in uprightneſs of heart, and them that have followed for the Loaves. I ſay, <hi>The power of God</hi> will try foundations whether they are upon the Rock or no. The true Mother will be known, even ſhe that hath the living Child, ſeeing that one over-laid it; for <hi>wiſe Solomon</hi> hath taken his <hi>Sword</hi> into his hand to divide and to judge. The li<g ref="char:EOLhyphen"/>ving Child all feel brought forth in your ſelves, that you may feel the overſhadowings of the Almighty that generateth, and that bringeth it forth. It hath a dependance only upon God, and cryeth unto him, and God heareth it; it reacheth unto heaven, and like a mighty <hi>Prince</hi> wreſtleth with God, and will not let him go, till it hath prevailed with him; it hath no other in <hi>Heaven</hi> nor in <hi>Earth</hi> to cry unto but <hi>God.</hi> It hath its dependance upon <hi>God</hi> alone, and God looked down from heaven, and ſaw that there was none to help; mark, none to help. Then, and not till then did his own arm bring ſalvation, and he was cloathed with Zeal as with a Cloak.</p>
+            <p>Well, ſure God is riſen, methinks <hi>I feel his power over all.</hi> It is even that will rule and reign, and of the <hi>Encreaſe</hi> of his Government there ſhall never be any <hi>end.</hi> Surely he is the <hi>Anoynting,</hi> that we that have ſought the Lord in upright-heartedneſs, have found within us; he is the Mighty God, the <hi>Prince of Peace.</hi> Surely he is ſtrength to them that have no Might, he is ſight to the Blind, and <hi>Wiſdom</hi> to the ſimple-heart<g ref="char:EOLhyphen"/>ed.
+<pb n="3" facs="tcp:33243:2"/>Surely he is all to them that have only ſought him. And Friends, he is the true <hi>Vine,</hi> know him to be your own, and ſit down under him: mark, under your own Vine, not under anothers, there none can make affraid. And this is the <hi>Lord God</hi> of Heaven and Earth, gathering all his Lambs and Babes that have been ſcattered upon the barren Mountaines, like Sheep without a Shepheard, and ſaying, Let them return every man to his <hi>own Tent.</hi> This <hi>Tent</hi> or <hi>Tabernacle</hi> that God hath pitched is with men, and he will dwell in them, and walk in them. And he will eſtabliſh his <hi>everlaſting Covenant</hi> with them, even the ſure mercies of <hi>David.</hi> And he is come to whip out them that have made haſt to defile his <hi>Temple,</hi> and to overthrow the earthly Tabernacles that man hath builded in his own will (and lived in.) Then ſhall the clear day ſpring from on high, that many ſouls have breathed for, and Nations have deſired: wherein <hi>
+                  <g ref="char:V">Ʋ</g>nity</hi> and <hi>Amity</hi> ſhall be further manifeſted, and lived in, even when man ſhall ceaſe from his own building. In a word, he will overturn and ſhake and throw down all that is builded and not upon the <hi>Rock.</hi> For thus ſaith the <hi>Lord, I will</hi> once more ſhake not the <hi>Earth</hi> only, but <hi>Heaven</hi> alſo: And the old Heavens, and the old Earth ſhall paſs away, and the new Heavens ſhall remain, wherein dwelleth righteouſneſs, <hi>Peace, <g ref="char:V">Ʋ</g>nity</hi> and <hi>Amity;</hi> and he will rend the vail from off all faces, and all falſe coverings ſhall not any longer he able to hide, for the <hi>Light</hi> doth now ſo clearly ſhine, and the day is dawned which is to the <hi>Adulterer as the ſhadow of death;</hi> yea verily, the Sun is riſen which ſhall <hi>never ſet.</hi> And this charitable <hi>Life,</hi> that thinketh no evil, ſhall proſper and out live all that
+<pb n="4" facs="tcp:33243:3"/>is of a contrary nature: <hi>The mouth of the Lord hath ſpo<g ref="char:EOLhyphen"/>ken it.</hi> And this is the matter now in Controverſie, Except ye eat My <hi>Fleſh,</hi> ſaith Chriſt Jeſus, and drink My <hi>Blood,</hi> you have no <hi>Life abiding</hi> in you. My friends, <hi>friends of God,</hi> you muſt all come into his <hi>Life,</hi> and ſpeak the word from his mouth, and, <hi>the words that he ſpeaketh, they are Spirit and Life;</hi> and you muſt ſpeak it in faithfulneſs, and not <hi>add nor diminiſh.</hi> And it ſhall no more be ſaid, <hi>The burden</hi> of the <hi>Word</hi> of the Lord; but, <hi>The burden of Babylon.</hi> The wind bloweth where it liſteth, and the <hi>Spirit</hi> reſteth where it pleaſeth; That which pleaſeth him, is a naked Heart, that ſitteth and waiteth at the <hi>feet of Jeſus</hi> (and heareth the <hi>Word from his mouth</hi>) rather than <hi>Marthas</hi> great bulk of ſer<g ref="char:EOLhyphen"/>vice. This manifeſtation of the Spirit of God, is to help man to find the <hi>Rock</hi> in this weary Land, that ye may have <hi>Oil of your own,</hi> for anothers will not ſerve you. For the time is come wherein you muſt <hi>ceaſe from man,</hi> and you muſt have the <hi>Word of God abiding in you, or be ſeparated.</hi> And this is the end of my writ<g ref="char:EOLhyphen"/>ing to you, to preſs you to your <hi>own;</hi> there cannot any thing elſe ſtand in this day of <hi>winnowing and ſift<g ref="char:EOLhyphen"/>ing,</hi> that is come and coming to try all Nations, People, Kindreds and Families. And this is my Teſtimony for the <hi>Lord God</hi> of Heaven and Earth, he doth in them ac<g ref="char:EOLhyphen"/>cording to his good pleaſure. <hi>And thus ſaid the Lord,</hi> the mighty God of Heaven and Earth, I will ariſe up, as in Mount <hi>Perazzim,</hi> and I will ſcatter mine Enemies before me, I will hurry them hither and thither, and I will terrifie them in my ſore diſpleaſure, <hi>The mouth of the Lord of Hoſts hath ſpoken it.</hi>
+            </p>
+            <p>Therefore, yea ſimple ones, <hi>ariſe, ariſe,</hi> and ſhake
+<pb n="5" facs="tcp:33243:3"/>your ſelves from <hi>the duſt (Serpents Meat)</hi> for this birth bindeth <hi>Kings</hi> in chains, and <hi>Nobles</hi> in fetters of <hi>Iron.</hi>
+            </p>
+            <p>And Friends, let us have care how we ſtand in any thing below <hi>the Life</hi> and <hi>Power</hi> of God; do not ſtay any where before thou come to the Mountain Remem<g ref="char:EOLhyphen"/>ber <hi>Lots Wife.</hi> The ſeed is a travelling; yea my ſoul ſaith, Who is this that cometh from <hi>Boſrah,</hi> with his dyed garments? it is the Mighty God, a wonderful <hi>Councellor,</hi> ready to ſave; he travelleth on like a migh<g ref="char:EOLhyphen"/>ty Man, like a Giant to run his race, he skippeth as with Hindes feet, <hi>ſurely he is near.</hi>
+            </p>
+            <p>
+               <hi>Gods everlaſting Sabbath</hi> is known, the day is come wherein man muſt ceaſe from all his labours, for God is riſen, and he will work, and none ſhall let. Man is to be ſilent, peace and be ſtill all ye that are come to the ends of the earth; for as I ſaid before, the <hi>Lord God</hi> of Heaven and Earth is riſen, and he will tread the Wine<g ref="char:EOLhyphen"/>preſs alone, therefore are his garments dyed red; now it will be known who they be that can live with ever<g ref="char:EOLhyphen"/>laſting burnings, and with devouring fire, even he that hath clean hands and a pure heart, without which no man ſhall ſee God. And without this <hi>Charitable life,</hi> if a man could give his goods to the poor, and his body to be burned, he is but a ſounding braſs, or a tinkling cym<g ref="char:EOLhyphen"/>bal. I mean that <hi>Life</hi> that ſuffereth long, and hath not envy in the heart, nor double mindedneſs in all its deal<g ref="char:EOLhyphen"/>ings, that preferreth anothers good before his own, that thinketh no evil, that is not peeviſh nor froward, nor haſts to judge of any thing before its time; that can wait till he that is the Judge of all things doth <hi>ariſe</hi> in him, then ſhall his enemies be ſcattered before him like duſt before the whirlwind. And that that ſtayeth or
+<pb n="6" facs="tcp:33243:4"/>
+               <hi>Centureth</hi> in any thing below the <hi>Life</hi> and <hi>Power</hi> of God, is that which tendeth to <hi>Diviſion:</hi> for the Captain of our ſalvation (as I ſaid before) travelleth, and we are to follow here, and be like him in all things. The Year of Freedome is come, the <hi>Everlaſting Jubile</hi> is witneſſed, wherein God hath redeemed them that have ſought him, onely from under the <hi>Bondage of Egyptian dark<g ref="char:EOLhyphen"/>neſs,</hi> and from all the ſore <hi>Taskmaſters</hi> that have dealt ſubtilly with his <hi>Iſrael;</hi> and the <hi>Iſhmaelitiſh</hi> Merchants ſhall no longer make merchandize of his little children, for he is come to lead and to teach them himſelf, and he will bring them to the Mountain of the houſe of <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> which is eſtabliſhed above all the mountains, and exalted above all the hills of imitation and imagination, and hills of ſtrife; and Nations ſhall flow thither and ſay, Come and let us go up to the mountain of the Lords houſe, and he will teach us of his wayes, and we will walk in his pathes, and every child ſhall be as <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> and <hi>David</hi> ſhall be as God, and here is no need of mans teachings, neither is there any need of the <hi>Sun</hi> by day, nor the <hi>Moon</hi> by night, for the <hi>Lord God</hi> is the light of them, and the Lamb that is in the midſt of them, ſhall and hath wiped away all tears from all faces (that are come hither) there ſhall not be a place for a cunning Workman, nor a Hammer to be heard in all Gods holy Mountain, <hi>The mouth of the Lord of Hoſts hath ſpoken it.</hi>
+            </p>
+            <p>And thus is the <hi>Lord God</hi> of Heaven and Earth a do<g ref="char:EOLhyphen"/>ing his own work himſelf, and man is to be ſilent, and ſtand ſtill, and ſee Gods ſalvation, which puteth an end to thoſe earthen tabernacles, which in the imaginary part, ſome that were Chriſts friends, would have build<g ref="char:EOLhyphen"/>ed in the Mountain on which he was transfigured before
+<pb n="7" facs="tcp:33243:4"/>them. And this manifeſtation of the Spirit, is the ſub<g ref="char:EOLhyphen"/>ſtance of what then was figured forth, when he was taken out of their ſight. And thus are all the works of God wonderful, and of great and weighty concern<g ref="char:EOLhyphen"/>ment: Yea, ſurely his <hi>Wiſdom</hi> is <hi>paſſed by,</hi> and gone be<g ref="char:EOLhyphen"/>yond the wiſdom and comprehenſions of wiſe men, for that was too ſhort and too narrow to contain his mighty incomprehenſible fulneſs, which cannot be li<g ref="char:EOLhyphen"/>mitted nor likned to any thing, time, or place; for his wayes are unſearchable, and his Judgments paſt finding out; praiſes endleſs be to his holy <hi>Name for ever,</hi> who is King of Zion, he ſiteth upon the Cherubims of Eterni<g ref="char:EOLhyphen"/>ty, and he will bow down the high thoughts of man, be they never ſo much exalted.</p>
+            <p>And one thing I charge you to have care of, that you do not hide any ſweet morſel, nor a <hi>Babyloniſh</hi> wedg (though it may be of gold) under your Tents, for the <hi>Lord God</hi> of Heaven and Earth will find it out; we muſt all be tryed by the Refiners fire, and waſhed as with Fullers ſope, that we may have our garments clean, that we may not longer lye among the pots, nor ſeek the living among the dead. <hi>For he is ariſen,</hi> therefore let him be your <hi>Head</hi> in all things; for if any thing elſe be chief that will betray him. Therefore let us be dili<g ref="char:EOLhyphen"/>gent and willing to follow the Lamb, and not froward and angry as <hi>Jonah</hi> was, when God prepared a worm to deſtroy the gourd that had covered his head in the night, wherein he had reſted, and was ſo exceeding glad of it. So in the Innocent <hi>Life of the Lamb,</hi> the Lord God preſerve you and me faithful unto the end, that we may finiſh our courſe with Joy, and we may ſtand upon Mount <hi>Zion</hi> with the <hi>Lamb,</hi> and ſing his <hi>Song for
+<pb n="8" facs="tcp:33243:5"/>ever,</hi> which cannot be ſung in <hi>Babylon,</hi> becauſe it is a ſtrange Land. Thus in Obedience to the Spirit of God, I have born a faithful Teſtimony for the Lord, and in it let me be received.</p>
+            <closer>
+               <signed>Richard Waite.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <head>Poſtſcript.</head>
+            <p>THe Woman, while her Husband liveth, is bound by the Law to her Husband (and not one jot nor tittle of the <hi>Law</hi> ſhall paſs, till all be fulfilled) but when he is dead, ſhe is free from the Law, the Law of the Spirit of <hi>Life</hi> in <hi>Chriſt Ieſus</hi> hath made me free from the Law of ſin and death; and thou to hate what he controuleth, is the fulfilling of the Law, and the anſwering of him love for love, by Obedience, which is better then ſacrifices; So ſhalt thou be <hi>Married unto him in the Word of his Pow<g ref="char:EOLhyphen"/>er,</hi> which will make thee willing: And ſo he maketh of twain one new man. And this is that miniſtration of Life and Salvation, which hath exceeded and outſhined that of condemnation, which was glorious in its time, but this hath and ſhall exceed it in <hi>Glory.</hi>
+            </p>
+            <p>
+               <hi>By one who hath a portion in the Man of ſorrows, in whom was no form nor comlineſs, yet his Mercies indureth for ever, and of his loving-kindneſs there ſhall never be an</hi> END</p>
+            <closer>
+               <signed>R.W.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
